@@ -6,8 +6,8 @@
 
 
 .fit {
-  max-width: 99%;
-  max-height: 99%;
+  max-width: 2000%;
+  max-height: 200%;
 }
 <img class="fit" src="https://c.tenor.com/vW__kIdOl0EAAAAC/android-google-android.gif">
 
