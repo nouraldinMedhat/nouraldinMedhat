@@ -40,8 +40,8 @@ Like My Work?
 
 
 - 🚀 &nbsp; Mr Mechanic/ Mechanic Admin
-- 🚀 &nbsp; Jooy [Github](https://play.google.com/store/apps/details?id=com.thejooy.jooy)
-- 🚀 &nbsp; Agrle Now
+- 🚀 &nbsp; Jooy [APK](https://play.google.com/store/apps/details?id=com.thejooy.jooy)
+- 🚀 &nbsp; Agrle Now [APK](https://play.google.com/store/apps/details?id=com.thejooy.jooy)
 - 🚀 &nbsp; Maslaha
 - 🚀 &nbsp; Fashonile
 - 🚀 &nbsp; Mask/ Mask Business 
