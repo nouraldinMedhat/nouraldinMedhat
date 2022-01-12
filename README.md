@@ -1,5 +1,10 @@
 ## Hey 👋, I'm [Nour](https://github.com/nouraldinmedhat/)
 
+<p align="center">
+  <img src="https://c.tenor.com/vW__kIdOl0EAAAAC/android-google-android.gif" />
+</p>
+
+
 <img  height="250" width="375" alt="" src="https://c.tenor.com/vW__kIdOl0EAAAAC/android-google-android.gif" />
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nouraldinmedhat/)
