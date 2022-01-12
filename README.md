@@ -1,5 +1,7 @@
 ## Hey 👋, I'm [Nour](https://github.com/nouraldinmedhat/)
 
+<img align="center" height="250" width="375" alt="" src="https://c.tenor.com/vW__kIdOl0EAAAAC/android-google-android.gif" />
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nouraldinmedhat/)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://flowcv.me/nourmedhat)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/NourAldinMedhat)
