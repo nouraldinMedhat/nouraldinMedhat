@@ -23,7 +23,7 @@ Like My Work?
 
 [![](https://gitwar.herokuapp.com/badge?username=iampavangandhi&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/)
 
-<img align="right" height="250" width="375" alt="" src="https://i.gifer.com/VwDf.gif" />
+<img align="right" height="250" width="375" alt="" src="https://thumbs.gfycat.com/ImpishDiscreteGonolek-max-1mb.gif" />
 
 ### Talking about Personal Stuffs:
 
