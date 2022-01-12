@@ -35,6 +35,22 @@ Like My Work?
 - 📝 &nbsp; Checkout my [Resume](https://flowcv-user-file-uploads-prod.s3.eu-central-1.amazonaws.com/websiteButton/si4fju4r2zajbqa2wwgqh2hdhx.pdf).
 
 
+
+### Projects & Acheievemnts:
+
+
+- 🚀 &nbsp; Mr Mechanic/ Mechanic Admin
+- 🚀 &nbsp; Jooy
+- 🚀 &nbsp; Agrle Now
+- 🚀 &nbsp; Maslaha
+- 🚀 &nbsp; Fashonile
+- 🚀 &nbsp; Mask/ Mask Business 
+- 🚀 &nbsp; Shokran Egypt
+- 🚀 &nbsp; Tradx
+
+
+
+
 ### Languages and Tools:
 
 
