@@ -5,7 +5,11 @@
 </p>
 
 
-<img  height="250" width="375" alt="" src="https://c.tenor.com/vW__kIdOl0EAAAAC/android-google-android.gif" />
+.fit {
+  max-width: 99%;
+  max-height: 99%;
+}
+<img class="fit" src="https://c.tenor.com/vW__kIdOl0EAAAAC/android-google-android.gif">
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nouraldinmedhat/)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://flowcv.me/nourmedhat)
