@@ -122,13 +122,11 @@ Like My Work?
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
   	    <li><b>OS:</b> Ubuntu 20.04</li>
-	    <li><b>Laptop: </b> HP Elitebook (i5)</li>
-  	    <li><b>Browser: </b> Firefox Web Browser</li>
-	    <li><b>Terminal: </b> ZSH: Oh My Zsh (PowerLevel10k)</li>
-	    <li><b>Code Editor:</b> VSCode - The best editor out there.</li>
-	    <li><b>To Stay Updated:</b> Dev.to, Medium, Linkedin and Twitter.</li>
+	    <li><b>Laptop: </b> Macbook Pro 2021 M1</li>
+  	    <li><b>Browser: </b> Chrome</li>
+	    <li><b>Code Editor:</b> Android Studio, Visual Basic</li>
+	    <li><b>To Stay Updated:</b> Linkedin and Twitter.</li>
 	    <br />
-	⚛️ Checkout My VSCode Configrations <a href="https://gist.github.com/iampavangandhi/039b1dc5a7cdcb007ab3691814d53130">Here</a>.
 	</ul>	
 </details>
 
