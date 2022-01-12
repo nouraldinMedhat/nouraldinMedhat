@@ -23,18 +23,13 @@ Like My Work?
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working with Nodejs, Express, React, <br /> Graphql, Mongodb, Javascript, etc.
-- 🚀 &nbsp; I’m currently learning Full Stack Development.
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/iampavangandhi).
+- 🛠 &nbsp; I’m currently working with Kotlin, Java, Architecture Pattern, SQL, Android Jetpack Libraries, Visual Basic.  
+- 🚀 &nbsp; I’m currently learning iOS Development.
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/nouraldinMedhat).
 - 💬 &nbsp; Ask me about anything [here](https://github.com/nouraldinMedhat/nouraldinMedhat/issues/1)! I am happy to help.
 - 📫 &nbsp; How to reach me: nouraldinmadhay@gmail.com.
-- 📝 &nbsp; Checkout my [Resume](https://github.com/iampavangandhi/iampavangandhi/blob/master/resume.pdf).
+- 📝 &nbsp; Checkout my [Resume](https://flowcv-user-file-uploads-prod.s3.eu-central-1.amazonaws.com/websiteButton/si4fju4r2zajbqa2wwgqh2hdhx.pdf).
 
-### My Absolute Favorites:
-
-- 💻 &nbsp; I love exploring new tech stack and building cool stuffs.
-- 📰 &nbsp; Reading & writing tech blogs whenever possible.
-- 🍕 &nbsp; Hackathons, meetups & tech events.
 
 ### Languages and Tools:
 
