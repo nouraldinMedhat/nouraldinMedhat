@@ -13,7 +13,7 @@
 
 I'm a graduate in Computer Science 🎓 from 6 October University 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Android Development ( Native: Java & Kotlin ).
 
-Joined Github **5** years ago.
+Joined Github **4** years ago.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nouraldinmedhat&label=Profile%20views&color=0e75b6&style=flat" alt="nouraldinmedhat" /> </p>
 
 
