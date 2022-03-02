@@ -30,7 +30,7 @@ Like My Work?
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/nouraldinMedhat).
 - 💬 &nbsp; Ask me about anything [here](https://github.com/nouraldinMedhat/nouraldinMedhat/issues/1)! I am happy to help.
 - 📫 &nbsp; How to reach me: nouraldinmadhay@gmail.com.
-- 📝 &nbsp; Checkout my [Resume](https://flowcv-user-file-uploads-prod.s3.eu-central-1.amazonaws.com/websiteButton/si4fju4r2zajbqa2wwgqh2hdhx.pdf).
+- 📝 &nbsp; Checkout my [Resume](https://flowcv-user-file-uploads-prod.s3.eu-central-1.amazonaws.com/websiteButton/h0h0xjsfaotytw005gs210tfwe.pdf).
 
 
 
@@ -83,7 +83,7 @@ Like My Work?
   	    <li><b>OS:</b> MacOS Montery</li>
 	    <li><b>Laptop: </b> Macbook Pro 2021 M1</li>
   	    <li><b>Browser: </b> Chrome</li>
-	    <li><b>Code Editor:</b> Android Studio, Visual Basic</li>
+	    <li><b>Code Editor:</b> Android Studio, Visual Code</li>
 	    <li><b>To Stay Updated:</b> Linkedin and Twitter.</li>
 	    <br />
 	</ul>	
