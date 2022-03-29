@@ -34,7 +34,7 @@ Like My Work?
 
 
 - 🚀 &nbsp; Mr Mechanic/ Mechanic Business
-- - 🚀 &nbsp; Tradx
+- 🚀 &nbsp; Tradx
 - 🚀 &nbsp; Jooy [APK](https://play.google.com/store/apps/details?id=com.thejooy.jooy)
 - 🚀 &nbsp; Agrle Now [APK](https://play.google.com/store/apps/details?id=com.thejooy.jooy)
 - 🚀 &nbsp; Maslaha
