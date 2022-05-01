@@ -32,7 +32,10 @@ Like My Work?
 
 ### Projects & Acheievemnts:
 
-
+- 🚀 &nbsp; Bit Eltaybat  [APK](https://play.google.com/store/apps/details?id=com.app.bieteltalabat)
+- 🚀 &nbsp; Tawseleg.com  [APK](https://play.google.com/store/apps/details?id=com.app.tawsel)
+- 🚀 &nbsp; Shokran Egypt [APK](https://play.google.com/store/apps/details?id=com.shokranegypt.shokran)
+- 🚀 &nbsp; DeliveryHero  [APK](https://play.google.com/store/apps/details?id=com.app.sealteamdelivery)
 - 🚀 &nbsp; Mr Mechanic/ Mechanic Business
 - 🚀 &nbsp; Tradx
 - 🚀 &nbsp; Jooy [APK](https://play.google.com/store/apps/details?id=com.thejooy.jooy)
@@ -40,11 +43,7 @@ Like My Work?
 - 🚀 &nbsp; Maslaha [APK](https://play.google.com/store/apps/details?id=com.nourmedhat.maslahah)
 - 🚀 &nbsp; Fashonile
 - 🚀 &nbsp; Mask/ Mask Business 
-- 🚀 &nbsp; Shokran Egypt[APK](https://play.google.com/store/apps/details?id=com.shokranegypt.shokran)
-- 🚀 &nbsp; Tawseleg.com [APK](https://play.google.com/store/apps/details?id=com.app.tawsel)
-- 🚀 &nbsp; Bit Eltaybat [APK](https://play.google.com/store/apps/details?id=com.app.bieteltalabat)
 - 🚀 &nbsp; Sukari
-- 🚀 &nbsp; DeliveryHero  [APK](https://play.google.com/store/apps/details?id=com.app.sealteamdelivery)
 
 <!-- ### Projects and Dev Stuffs:
 
@@ -71,7 +70,6 @@ Like My Work?
 	</ul>	
 </details>
 
- -->
 
 ### Show some ❤️ by starring some of the repositories!
 
