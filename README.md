@@ -46,9 +46,9 @@ Like My Work?
 - 🚀 &nbsp; Sukari
 - 🚀 &nbsp; DeliveryHero
  
-### Projects and Dev Stuffs:
+<!-- ### Projects and Dev Stuffs:
 
-<details>	
+<!-- <details>	
   <summary><b>⚡ Github Stats</b></summary>
 
   <br />
@@ -56,7 +56,8 @@ Like My Work?
   
 </details>
 
- 
+  -->
+  
 <details>	
   <br />
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
@@ -70,7 +71,7 @@ Like My Work?
 	</ul>	
 </details>
 
-
+ -->
 
 ### Show some ❤️ by starring some of the repositories!
 
