@@ -13,9 +13,9 @@ Joined Github **4** years ago.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nouraldinmedhat&label=Profile%20views&color=0e75b6&style=flat" alt="nouraldinmedhat" /> </p>
 
 
-Like My Work?
+<!--Like My Work?
 
-<a href="https://www.buymeacoffee.com/nouraldinmedhat" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
+<a href="https://www.buymeacoffee.com/nouraldinmedhat" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>  -->
 
 <img align="right" height="250" width="375" alt="" src="https://thumbs.gfycat.com/ImpishDiscreteGonolek-max-1mb.gif" />
 
